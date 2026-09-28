@@ -128,7 +128,7 @@ This dashboard looks at category contribution, SKU concentration, and overall po
 - **Bikes** generate **81.59% of total revenue**, making them by far the most dominant product category.
 - A small share of products drives most of the business. Around **13.5% of SKUs generate about 80% of total gross profit**.
 - Product groups such as **Touring Bikes** and **Frames** appear to offer room for broader commercial development.
-- At the same time, a large long-tail assortment contributes little revenue while adding operational complexity.
+- At the same time, a large long-tail assortment contributes little gross profit while adding operational complexity.
 
 **Why it matters:**  
 The portfolio contains clear winners, but it is also broader than necessary. A more selective product mix could reduce complexity without hurting revenue.
